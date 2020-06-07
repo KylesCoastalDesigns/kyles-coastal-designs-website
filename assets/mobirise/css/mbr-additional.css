@@ -1,6 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
+
+
 
 
 
@@ -453,6 +457,18 @@ section.form .container {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -15px;
+}
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#header3-14 .mbr-section-subtitle {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #features7-7 .card-subtitle {
   color: #bcbcbc;

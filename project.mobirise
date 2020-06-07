@@ -47,7 +47,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png"
   },
@@ -56,12 +56,42 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Here at, Mythical Development we make stuff to suit your business needs. Check out this website for more info.",
+        "meta_descr": "Here at, Mythical Development we make stuff to suit your business needs. Check out this website for more info. Our Discord: DxIntelligent#0637",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#232323"
+          },
+          "title": "SALE",
+          "meta": "Websites are now $50. Original Price: $100 [Ends: 10/6/2020]",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
         {
           "_params": {
             "showTitle": true,
@@ -105,7 +135,7 @@
             }
           },
           "title": "Mythical Development",
-          "text": "Here at, Mythical Development we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info.<br>",
+          "text": "Here at, Mythical Development we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info. Don't have facebook or instagram no worries message us on discord:&nbsp;DxIntelligent#0637<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://m.facebook.com/mythicaldevelopmentofficial/?ref=page_internal&amp;mt_nav=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Send us A Message</a>",
           "_tags": [
             "Theme"
