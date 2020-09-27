@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kyles Coastal Designs",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -136,7 +136,7 @@
           },
           "title": "Kyle's Coastal Designs",
           "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info. Don't have facebook or instagram no worries message us on discord:&nbsp;Kyles Coastal Designs#0637<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://m.facebook.com/mythicaldevelopmentofficial/?ref=page_internal&amp;mt_nav=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Send us A Message</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.instagram.com/kyles_coastal_designs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Send us A Message</a>",
           "_tags": [
             "Theme"
           ],
@@ -442,7 +442,7 @@
             "overlayOpacity": 0.5
           },
           "text": "CONTACTS",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/mythicaldevelopmentofficial/?ref=page_internal&amp;mt_nav=0\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/mythical_development/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": "    <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/kyles_coastal_designs/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
