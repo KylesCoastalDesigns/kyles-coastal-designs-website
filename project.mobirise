@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Mythical Development ",
-    "currentPage": "policy.html",
+    "name": "Kyles Coastal Designs",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     "versionFirst": "4.12.2",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/img-20200518-021418-195-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-20200927-221935-049-128x128.png",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#ffffff",
@@ -39,7 +39,7 @@
       "underlineLink": true,
       "opacity": "78",
       "opacityOverlay": "80",
-      "text": "Our Staff Team Welcomes you to the Official Website for Mythical Development. Please read <a href='policy.html'>Our Policy</a>.",
+      "text": "Our Staff Team Welcomes you to the Official Website for Kyle's Coastal Designs. Please read <a href='policy.html'>Our Policy</a>.",
       "textButton": "Accept"
     },
     "robotsSwitcher": false,
@@ -84,7 +84,7 @@
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "title": "Recent Updated",
+          "title": "Recently Updated",
           "meta": "We have recently changed our business name to Kyles Coastal Designs instead of Mythical Development. Reason being Kyle's Coastal Designs is more professional",
           "_tags": [
             "Theme"
@@ -117,7 +117,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20200518-021418-195-874x873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20200927-221935-49-1049x1049.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -942,6 +942,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/img-20200518-015631-719-1080x1089.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20200518-015631-719-1080x1089-800x807.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20200927-221935-50-1049x1049.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200927-221935-50-1049x1049-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
