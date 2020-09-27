@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mythical Development ",
-    "currentPage": "index.html",
+    "currentPage": "policy.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -47,7 +47,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "uniqCompNum": 41,
+    "uniqCompNum": 45,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png"
   },
@@ -84,8 +84,8 @@
             "paddingBottom": 1,
             "bgColor": "#232323"
           },
-          "title": "SALE",
-          "meta": "Websites are now $50. Original Price: $100 [Ends: 10/6/2020]",
+          "title": "Recent Updated",
+          "meta": "We have recently changed our business name to Kyles Coastal Designs instead of Mythical Development. Reason being Kyle's Coastal Designs is more professional",
           "_tags": [
             "Theme"
           ],
@@ -134,8 +134,8 @@
               "size": 250
             }
           },
-          "title": "Mythical Development",
-          "text": "Here at, Mythical Development we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info. Don't have facebook or instagram no worries message us on discord:&nbsp;DxIntelligent#0637<br>",
+          "title": "Kyle's Coastal Designs",
+          "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info. Don't have facebook or instagram no worries message us on discord:&nbsp;Kyles Coastal Designs#0637<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://m.facebook.com/mythicaldevelopmentofficial/?ref=page_internal&amp;mt_nav=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Send us A Message</a>",
           "_tags": [
             "Theme"
@@ -262,7 +262,7 @@
           "caption2": "You will get a a custom high quality logo made for your buisness, Youtube, Etc. Send us a message for prices.",
           "title3": "Roblox Game Development",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We will developa game of these types of like: Nightclubs, Bases, Homestores, Etc.&nbsp;Send us a message for prices.",
+          "caption3": "We will build or even script a game that suits your needs. We do not do insanely big projects.&nbsp;Send us a message for prices.",
           "title4": "Custom Discord Bots",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "We will program a custom discord bot of your choice. Send us a message for prices.",
@@ -282,141 +282,142 @@
           "_anchor": "features7-7"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": "5",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "WHAT OUR FANTASTIC CUSTOMERS SAY",
-          "subtitle": "",
-          "testimonial": [
-            {
-              "authorName": "Joel Raj.",
-              "authorBio": "User",
-              "text": "<p>Awesome job. So good and priced right. So happy with everything that they have done.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Christopher Andrew Powell.",
-              "authorBio": "User",
-              "text": "Really happy with the website design and great price. Very open and happy to make any changes to suit your needs. Highly recommend!",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Blake Chapman Kennedy.",
-              "authorBio": "User",
-              "text": "<p>Great logo. They make the best xbox logos out there.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Riley Burkwood.",
-              "authorBio": "Developer",
-              "text": "Mythical Development made me the best xbox logo.",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Gamerking2235.",
-              "authorBio": "Developer",
-              "text": "Mythical Development. Developed my server incredibly and there<div>also very patient</div>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
-          ],
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "Customer Reviews",
+          "meta": "Last Updated: 27/09/2020<br><b>[I just started doing photo reviews. If i started this earlier i would have way more}<br>[Any review that have mythical development in it are ours. That is just our old name]</b>",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-8"
+          "_name": "header3",
+          "_anchor": "header3-18"
         },
         {
           "_params": {
-            "token": "25867507711.727bfe1.44e2fdca80c44440b12f2706e5061cd9",
-            "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "1",
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": 4,
-            "spacing": "8",
-            "fullWidth": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColorRadio": true,
-            "bgColor": "#fafafa",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-13-44-53-92-1080x1215.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-13-44-53-92-1080x1215-800x900.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-13-47-39-23-1080x592.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-13-47-39-23-1080x592-800x439.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-00-81-1080x317.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-00-81-1080x317-800x235.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-11-25-1080x429.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-11-25-1080x429-800x318.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-20-30-1080x292.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-20-30-1080x292-800x216.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-31-63-1080x361.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-07-06-14-08-31-63-1080x361-800x267.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-14-00-30-53-1079x389.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2020-06-09-14-00-30-53-1079x389-800x288.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/capture-905x209.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-905x209-800x185.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
           },
-          "title": "Mythical Development Instagram Posts",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-danger\" href=\"#\" data-max-id=\"2250027307535511246_25867507711\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
+          "articleLayout": false,
+          "allItem": "All",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "instagram-feed-block",
-          "_styles": {
-            ".inst__title": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "instagram-feed-block-p"
+          "_name": "gallery1",
+          "_anchor": "gallery1-17"
         },
         {
           "_styles": {
@@ -440,7 +441,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "FOLLOW US",
+          "text": "CONTACTS",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/mythicaldevelopmentofficial/?ref=page_internal&amp;mt_nav=0\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/mythical_development/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
@@ -461,7 +462,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2020 - 2022. Mythical Development<br> <a href=\"https://www.facebook.com/mythicaldevelopmentofficial/\" target=\"_blank\" class=\"text-danger\">Powered By: Mythical Development</a></b>",
+          "text": "<b>Copyright (c) 2020 - 2022.&nbsp;</b>Kyle's Coastal Designs<b><br> <a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\" class=\"text-danger\">Powered By: Kyle's Coastal Designs</a></b>",
           "_tags": [
             "Theme"
           ],
@@ -550,7 +551,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mythical Development</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kyle's Coastal Designs</a>",
           "_tags": [
             "Theme"
           ],
@@ -591,7 +592,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Portfolio",
+          "title": "Portfolio<br>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -612,7 +613,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Mythical Development Websites",
+          "title": "Websites",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -630,7 +631,7 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "5",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -710,13 +711,13 @@
           "title1": "Carp Construct",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "JCR Therapies",
+          "title2": "Sunshine Vibe Cafe",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Barber Raj",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Health Haven",
+          "title4": "",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Sunshine Vibe Cafe",
@@ -726,7 +727,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.carpconstruct.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.jcrtherapies.tk/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.sunshinevibetakeawaycafe.tk/index.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.barberraj.tk/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.healthhaven.tk/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.sunshinevibetakeawaycafe.tk/index.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click Here</a>",
@@ -746,7 +747,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "title": "Mythical Development Logos",
+          "title": "Logos",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -968,7 +969,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "title": "Mythical Development Roblox Developed Games",
+          "title": "Roblox Developed Games",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1035,7 +1036,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2020 - 2022. Mythical Development<br> <a href=\"https://www.facebook.com/mythicaldevelopmentofficial/\" target=\"_blank\" class=\"text-danger\">Powered By: Mythical Development</a></b>",
+          "text": "<b>Copyright (c) 2020 - 2022.&nbsp;</b>Kyle's Coastal Designs<b><br> <a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\" class=\"text-danger\">Powered By: Kyle's Coastal Designs</a></b>",
           "_tags": [
             "Theme"
           ],
@@ -1124,7 +1125,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mythical Development</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kyle's Coastal Designs</a>",
           "_tags": [
             "Theme"
           ],
@@ -1227,7 +1228,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2020 - 2022. Mythical Development<br> <a href=\"https://www.facebook.com/mythicaldevelopmentofficial/\" target=\"_blank\" class=\"text-danger\">Powered By: Mythical Development</a></b>",
+          "text": "<b>Copyright (c) 2020 - 2022.&nbsp;</b>Kyle's Coastal Designs<b><br> <a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\" class=\"text-danger\">Powered By: Kyle's Coastal Designs</a></b>",
           "_tags": [
             "Theme"
           ],
@@ -1316,7 +1317,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mythical Development</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kyle's Coastal Designs</a>",
           "_tags": [
             "Theme"
           ],
@@ -1409,7 +1410,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mythical Development</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kyle's Coastal Designs</a>",
           "_tags": [
             "Theme"
           ],
@@ -1451,66 +1452,6 @@
           "_anchor": "msg-box8-l"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-10-500x500.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Zin.",
-          "text": "Zin. Is a very new Clothing, Game Development Group. We design the best clothes on roblox. We also build games but all the games have a vibe to it. We always focus on the vibes so all our Customers/Players are always happy and always feeling a vibe in there spine",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.roblox.com/groups/5866534/Zin#!/about\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Link</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-x",
-          "_styles": {
-            "H3": {
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1522,7 +1463,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Looking to have you're ad here. Message Mythical Development Below.",
+          "title": "Looking to have you're ad here. Message us Below.",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1556,7 +1497,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2020 - 2022. Mythical Development<br> <a href=\"https://www.facebook.com/mythicaldevelopmentofficial/\" target=\"_blank\" class=\"text-danger\">Powered By: Mythical Development</a></b>",
+          "text": "<b>Copyright (c) 2020 - 2022.&nbsp;</b>Kyle's Coastal Designs<b><br> <a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\" class=\"text-danger\">Powered By: Kyle's Coastal Designs</a></b>",
           "_tags": [
             "Theme"
           ],
