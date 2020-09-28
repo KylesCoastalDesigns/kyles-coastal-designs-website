@@ -474,22 +474,15 @@ section.form .container {
   color: #bcbcbc;
 }
 #features7-7 .iconbox {
-  background-color: #f97352;
-  border-color: #f97352;
+  background-color: #e25041;
+  border-color: #e25041;
 }
 #features7-7 P {
   text-align: center;
 }
-#instagram-feed-block-p .inst__title {
-  color: #000000;
-}
-#social-buttons2-6 .mbr-section-title,
-#social-buttons2-6 .btn-social {
-  color: #232323;
-}
-#social-buttons2-6 .btn-social > * {
-  vertical-align: middle;
-  padding-right: 0;
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
 }
 #footer1-f P {
   color: #ffffff;
@@ -711,82 +704,4 @@ section.form .container {
 #menu-s .link[aria-expanded="true"],
 #menu-s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#menu-s .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-s .navbar-caption {
-  color: #ffffff;
-}
-#menu-s .navbar-toggler {
-  color: #ffffff;
-}
-#menu-s .close-icon::before,
-#menu-s .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-s .link,
-#menu-s .dropdown-item {
-  color: #ffffff;
-}
-#menu-s .link {
-  font-size: 0.9rem;
-}
-#menu-s .dropdown-item,
-#menu-s .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-s .link:hover,
-#menu-s .dropdown-item:hover,
-#menu-s .link:focus,
-#menu-s .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-s .link[aria-expanded="true"],
-#menu-s .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-s .nav-dropdown-sm .link:focus,
-#menu-s .nav-dropdown-sm .link:hover,
-#menu-s .nav-dropdown-sm .dropdown-item:focus,
-#menu-s .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-s .navbar,
-#menu-s .nav-dropdown-sm,
-#menu-s .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-s .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-s .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-s .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-s .bg-color.transparent.opened .link:hover,
-#menu-s .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-s .link[aria-expanded="true"],
-#menu-s .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#msg-box8-l .mbr-section-title,
-#msg-box8-l .lead {
-  color: #fff;
-}
-#msg-box5-x H3 {
-  text-align: right;
-}
-#msg-box5-x P {
-  text-align: right;
-}
-#header3-z .mbr-section-title,
-#header3-z .mbr-section-subtitle {
-  text-align: center;
-}
-#footer1-k P {
-  color: #ffffff;
 }
