@@ -40,7 +40,7 @@
       "opacity": "78",
       "opacityOverlay": "80",
       "text": "Our Staff Team Welcomes you to the Official Website for Kyle's Coastal Designs. Please read <a href='policy.html'>Our Policy</a>.",
-      "textButton": "Accept"
+      "textButton": "proceed"
     },
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -49,14 +49,15 @@
     "gdpr": false,
     "uniqCompNum": 45,
     "versionPublish": "4.12.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-2NNKW26X3N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-2NNKW26X3N');\n</script>"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Here at, Mythical Development we make stuff to suit your business needs. Check out this website for more info. Our Discord: DxIntelligent#0637",
+        "meta_descr": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -96,12 +97,12 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "showArrow": true,
             "imageSize": "36",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -135,7 +136,7 @@
             }
           },
           "title": "Kyle's Coastal Designs",
-          "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info. Don't have facebook or instagram no worries message us on discord:&nbsp;Kyles Coastal Designs#0637<br>",
+          "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info.<br><br><b>Before contacting us. Please read below first<br></b>Discord: Kyles Coastal Designs#0637<br>Gmail:&nbsp;kylescoastaldesigns@gmail.com<br>Instagram: <a href=\"https://www.instagram.com/kyles_coastal_designs/?hl=en\" target=\"_blank\">Click Here</a><br><br><b>Out current timezone is AEST - Australian Eastern Standard Time</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.instagram.com/kyles_coastal_designs/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Send us A Message</a>",
           "_tags": [
             "Theme"
@@ -151,7 +152,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "iconsBgColor": "#f97352",
+            "iconsBgColor": "#e25041",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "5",
@@ -247,8 +248,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f97352",
-              "border-color": "#f97352"
+              "background-color": "#e25041",
+              "border-color": "#e25041"
             },
             "P": {
               "text-align": "center"
@@ -256,7 +257,7 @@
           },
           "title1": "Websites",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We will program a custom website to suit your buisness needs for $100 We have free domains. We also have paid domains that are extra. Paid domains are cheap.",
+          "caption1": "We will program a custom website to suit your buisness needs. Send us a message for prices.",
           "title2": "Logos",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "You will get a a custom high quality logo made for your buisness, Youtube, Etc. Send us a message for prices.",
@@ -294,7 +295,7 @@
             "bgColor": "#fff"
           },
           "title": "Customer Reviews",
-          "meta": "Last Updated: 27/09/2020<br><b>[I just started doing photo reviews. If i started this earlier i would have way more}<br>[Any review that have mythical development in it are ours. That is just our old name]</b>",
+          "meta": "Latest update was on: 27/09/2020<br><b>[I just started doing photo reviews. If i started this earlier i would have way more}<br>[Any reviews that have mythical development in it are ours. That was just our old name]</b>",
           "_tags": [
             "Theme"
           ],
@@ -307,7 +308,7 @@
             "fullWidth": false,
             "spacing": 0,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "filterBgColor": false,
             "bgColor": "#FFFFFF",
             "showText": false,
@@ -418,36 +419,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-17"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            }
-          },
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "CONTACTS",
-          "icons": "    <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/kyles_coastal_designs/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-6"
         },
         {
           "_params": {
@@ -580,7 +551,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1148,7 +1119,7 @@
     },
     "policy.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Before buying anything from us. I suggest reading our policy.\nPolicy was last updated on: 28/09/2020",
         "title": "Policy",
         "order": 3
       },
@@ -1169,7 +1140,7 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1266.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -1196,7 +1167,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Purchase Policy</b><br><br>You can not get a refund for Websites, Discord Bots, Discord Server Setups but everything else you can. If you contact us after we show you the progess of the product and you do not like it you will get a refund . If you do not like it.<br><br><b>WE DO PREFER TO. IF YOU WOULD TELL US WHATS WRONG WITH THE PRODUCT INSTEAD OF A REFUND BUT ITS UP TO THE BUYER</b></p>",
+          "text1": "<p><b>Purchase Policy</b><br><br>You can not get a refund for Websites, Discord Bots, Discord Server Setups but everything else you can. If you contact us after we show you the progess of the product and you do not like it you will get a refund . If you do not like it.<br><br><b>BEFORE PLACING A ORDER WITH US ALWAYS DOUBLE CHECK WHAT YOU ORDERED TO MAKE SURE EVERYTHING IS CORRECT</b></p>",
           "text2": "<p><b>Other Policys<br><br></b></p><p>We are always busy so. Anything you purchase won't always be done in 1 or 2 days it could take a week. But it will not take more then 2 weeks. We will always message you incase the product is late.<br><br></p>",
           "_tags": [
             "Theme"
