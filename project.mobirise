@@ -136,7 +136,7 @@
             }
           },
           "title": "Kyle's Coastal Designs",
-          "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info.<br><br><b>Before contacting us. Please read below first<br></b>Discord: Kyles Coastal Designs#0637<br>Gmail:&nbsp;kylescoastaldesigns@gmail.com<br>Instagram: <a href=\"https://www.instagram.com/kyles_coastal_designs/?hl=en\" target=\"_blank\">Click Here</a><br><br><b>Our current timezone is AEST - Australian Eastern Standard Time</b>",
+          "text": "Here at, Kyles Coastal Designs we program Websites and Design Logos to suit your Business needs. We also do Roblox Game Development and We now do Discord Server Setups and Custom Discord Bots. Read below for more info.<br><br><b>Before contacting us. Please read below first<br></b>Discord: Kyles Coastal Designs#0637<br>Gmail:&nbsp;kylescoastaldesigns@gmail.com<br>Instagram: <a href=\"https://www.instagram.com/kyles_coastal_designs/?hl=en\" target=\"_blank\" class=\"text-danger\">Click Here</a><br><br><b>Our current timezone is AEST - Australian Eastern Standard Time</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://docs.google.com/document/d/17mfRJNJxaB6hJzHAvuTZid-2y8O7ddlerd34Rh3KF7c/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRICE LIST</a>",
           "_tags": [
             "Theme"
@@ -257,19 +257,19 @@
           },
           "title1": "Websites",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We will program a custom website to suit your buisness needs. Send us a message for prices.",
+          "caption1": "We will program a custom website to suit your buisness needs. Looking for prices? Just click the [PRICE LIST] button above.",
           "title2": "Logos",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "You will get a a custom high quality logo made for your buisness, Youtube, Etc. Send us a message for prices.",
+          "caption2": "You will get a a custom high quality logo made for your buisness, Youtube, Etc. Looking for prices? Just click the [PRICE LIST] button above.",
           "title3": "Roblox Game Development",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We will build or even script a game that suits your needs. We do not do insanely big projects.&nbsp;Send us a message for prices.",
+          "caption3": "We will build or even script a game that suits your needs. We do not do insanely big projects. Looking for prices? Just click the [PRICE LIST] button above.",
           "title4": "Custom Discord Bots",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We will program a custom discord bot of your choice. Send us a message for prices.",
+          "caption4": "We will program a custom discord bot of your choice. Looking for prices? Just click the [PRICE LIST] button above.",
           "title5": "Discord Server Setups",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "We will setup a discord server to suit your category.&nbsp;Send us a message for prices.",
+          "caption5": "We will setup a discord server to suit your category. Looking for prices? Just click the [PRICE LIST] button above.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -1164,7 +1164,7 @@
         {
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "4",
+            "paddingBottom": "7",
             "bgColor": "#fff"
           },
           "text1": "<p><b>Purchase Policy</b><br><br>You can not get a refund for Websites, Discord Bots, Discord Server Setups but everything else you can. If you contact us after we show you the progess of the product and you do not like it you will get a refund . If you do not like it.<br><br><b>BEFORE PLACING A ORDER WITH US ALWAYS DOUBLE CHECK WHAT YOU ORDERED TO MAKE SURE EVERYTHING IS CORRECT</b></p>",
@@ -1182,8 +1182,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<p>You will get notified if the policy changes</p>",
